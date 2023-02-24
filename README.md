@@ -1,6 +1,10 @@
 # Assignment 3
 ## Part One - Android Codelab 02.3 Implicit Intents
 
+For the other half of part one, see: https://github.com/LordArugula/CS453-Two-Activities/tree/lifecycle
+
+For part two, see: https://github.com/LordArugula/CS453-ExpenseTrackingApp
+
 ### ImplicitIntents
 
 #### Main Activity 
